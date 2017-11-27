@@ -1,0 +1,4 @@
+[submodule "calendar"]
+	path = dist/site/plugins/calendar
+	url = git@github.com:moritzz/Kirby-Calendar.git
+	branch = master
