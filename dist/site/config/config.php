@@ -17,6 +17,7 @@ for more information: http://getkirby.com/license
 
 c::set('license', 'put your license key here');
 c::set('panel.stylesheet', '/assets/css/panel.css');
+c::set('debug',true);
 
 /*
 

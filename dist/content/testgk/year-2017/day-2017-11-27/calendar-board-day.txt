@@ -1,0 +1,16 @@
+Title: 27-11-2017
+
+----
+
+Events: 
+
+- 
+  hour: 04:00
+  pathology: pat2
+  patient: test
+  css: category3
+- 
+  hour: 10:00
+  pathology: pat2
+  patient: test2
+  css: category3

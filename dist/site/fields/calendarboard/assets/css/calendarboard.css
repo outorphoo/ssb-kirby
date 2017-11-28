@@ -121,3 +121,19 @@
   margin-right:2px;
   cursor: default;
 }
+
+#calendarboard div.events div.event div.event.category3 {
+  display:block;
+  float:left;
+  border-radius:2px;
+  background-color: #8dae28;
+  width:100%;
+  white-space: nowrap; 
+  overflow: hidden;
+  text-overflow: ellipsis;
+  margin-bottom:2px;
+  font-size:11px;
+  padding:2px 4px;
+  color:#fff;
+  cursor: move;
+}

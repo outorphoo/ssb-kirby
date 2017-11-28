@@ -10,8 +10,12 @@
       <hr />
     </header>
       
-    <div class="wrap wide">    
-    <?php snippet('calendar') ?>
+    <div class="wrap wide">
+        <div style="color: #333"><?php foreach(page('ggg/year-2017/day-2017-11-27')->events()->toStructure() as $event){
+    echo $event->hour()->html();
+} ?></div>
+
+
 
     </div>
 
